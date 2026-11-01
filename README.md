@@ -14,11 +14,57 @@ COS 201 practical exercises and programming assignments.
 ```
 COS-201-assignment/
 ├── README.md
+├── week01/
+│   └── FirstProgram.java
 └── week03/
     ├── SimpleCalculator.java
     ├── AverageCalculator.java
     └── ItemCost.java
 ```
+
+---
+
+## Week 1: Introduction to Programming and Problem-Solving
+
+### Practical Exercise
+
+Created and executed my first Java programme. It displays the course, my programme of study, three reasons programming is important to Computer Science and my personal learning goal for COS 201.
+
+### File
+
+- `week01/FirstProgram.java`
+
+### How to Run
+
+```bash
+cd week01
+javac FirstProgram.java
+java FirstProgram
+```
+
+### Output
+
+```
+Welcome to COS 201!
+I am learning computer programming.
+Programming begins with problem-solving.
+My programme is running successfully.
+I will practise programming every week.
+
+Course: COS 201 - Computer Programming I
+Programme: Computer Science
+Reason 1: Programming turns algorithms into working software that solves real problems.
+Reason 2: Programming lets computers do repetitive tasks quickly and without mistakes.
+Reason 3: Programming is needed to build apps, websites, databases and networks.
+My goal: I want to write Java programs that take input, process it and show correct results.
+```
+
+### Skills Practised
+
+- Java class and main method
+- Output statements
+- Compilation and execution
+- GitHub version control
 
 ---
 
