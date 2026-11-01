@@ -6,7 +6,7 @@ COS 201 practical exercises and programming assignments.
 
 - **Name:** Anjorin Olamide Adeola
 - **Matriculation Number:** 25/16128
-- **Programme:** [Your Programme]
+- **Programme:** Computer Science
 - **Course:** COS 201 — Computer Programming I
 
 ## Repository Structure
