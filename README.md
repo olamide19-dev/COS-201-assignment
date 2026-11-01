@@ -16,6 +16,11 @@ COS-201-assignment/
 ├── README.md
 ├── week01/
 │   └── FirstProgram.java
+├── week02/
+│   ├── HelloWorld.java
+│   ├── StudentProfile.java
+│   ├── PrintExample.java
+│   └── ErrorExample.java
 └── week03/
     ├── SimpleCalculator.java
     ├── AverageCalculator.java
@@ -65,6 +70,76 @@ My goal: I want to write Java programs that take input, process it and show corr
 - Output statements
 - Compilation and execution
 - GitHub version control
+
+---
+
+## Week 2: Development Environment and First Java Program
+
+### Objective
+
+To configure the Java development environment, write a simple Java program, compile it, execute it and submit the source code through GitHub.
+
+### Tools Used
+
+- Java Development Kit (JDK)
+- Visual Studio Code
+- Git
+- GitHub Desktop
+- GitHub
+
+### Files
+
+- `week02/HelloWorld.java`: Java source code for the practical. Displays three lines of text.
+- `week02/StudentProfile.java`: the personalized program. Displays my course and academic information.
+- `week02/PrintExample.java`: practice exercise showing the difference between `print()` and `println()`.
+- `week02/ErrorExample.java`: "Find and fix the error" exercise, corrected by adding the missing semicolon.
+
+### How to Run
+
+1. Open a terminal in the `week02` directory.
+2. Compile the program using `javac HelloWorld.java`.
+3. Run the program using `java HelloWorld`.
+
+The other programs are compiled and run the same way, for example `javac StudentProfile.java` then `java StudentProfile`.
+
+### Output
+
+**HelloWorld**
+
+```
+Hello, World!
+Welcome to COS 201.
+I am learning Java programming.
+```
+
+**StudentProfile**
+
+```
+NAME: Anjorin Olamide Adeola
+COURSE: COS 201
+COURSE TITLE: Computer Programming I
+PROGRAMME: Computer Science
+WEEK: 2
+TOPIC: Development Environment and Java
+GOAL: To learn how to write Java programs.
+```
+
+**PrintExample**
+
+```
+COS 201
+Java
+```
+
+**ErrorExample**
+
+```
+Learning Java
+```
+
+### Learning Outcome
+
+I practised creating, compiling and running a Java program and submitting source code through GitHub. I also learned the difference between `print()` and `println()`, and how to read a compiler error and fix it.
 
 ---
 
