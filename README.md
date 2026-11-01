@@ -4,8 +4,8 @@ COS 201 practical exercises and programming assignments.
 
 ## Student Details
 
-- **Name:** [Your Full Name]
-- **Matriculation Number:** [Your Matric Number]
+- **Name:** Anjorin Olamide Adeola
+- **Matriculation Number:** 25/16128
 - **Programme:** [Your Programme]
 - **Course:** COS 201 — Computer Programming I
 
